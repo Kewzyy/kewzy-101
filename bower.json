@@ -1,0 +1,22 @@
+{
+  "name": "techchops",
+  "description": "This is a sample project.",
+  "main": "index.html",
+  "authors": [
+    "Carrie Dils"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bourbon": "^4.3.2",
+    "susy": "2.2.12",
+    "normalize-css": "^5.0.0"
+  }
+}
